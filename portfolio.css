@@ -147,3 +147,25 @@ main section{
     color: #757575;
 }
 
+.resume-container{
+    display: flex;
+    gap: 24px;
+}
+
+.resume-description{
+     color: #757575;
+}
+
+.journey{
+     color: #757575;
+     font-size: 20px;
+     font-weight: 600px;
+     margin-bottom: 0px;
+}
+hr{
+    margin: 30px 5px;
+}
+
+.resume-download-cv{
+    margin-top: 50px;
+}
